@@ -28,8 +28,11 @@
 
 ![头像是本人](头像.jpg)
 
-'''python
-print('hello,my friends!')'''
+esc下的斜点点三下
+
+```python
+print('hello,my friends!')
+```
 
 
 四个空格
