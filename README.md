@@ -27,3 +27,10 @@
 请认准我：
 
 ![头像是本人](头像.jpg)
+
+'''python
+print('hello,my friends!')'''
+
+四个空格
+    print('halo,uu们！')
+hhhh
